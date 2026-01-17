@@ -1,7 +1,7 @@
-# FMCG Data Engineering Project (Databricks Free Edition)
+# FMCG Retail Data Consolidation using Lakehouse Architecture (Databricks, Spark, AWS)                                                                               
 
 ## Project Overview
-This project demonstrates an end-to-end data engineering pipeline built using **Databricks Free Edition** and **AWS** for an FMCG business use case. The project handles data ingestion from multiple source systems, supports full and incremental loads, performs transformations, and prepares analytics-ready datasets following data engineering best practices.
+This project demonstrates an end-to-end data engineering pipeline built using **Databricks** and **AWS** for an FMCG business use case. The project handles data ingestion from multiple source systems, supports full and incremental loads, performs transformations, and prepares analytics-ready datasets following data engineering best practices.
 
 ## Tech Stack
 - Databricks (Apache Spark)
