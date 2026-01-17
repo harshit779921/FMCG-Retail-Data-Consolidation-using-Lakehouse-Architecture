@@ -19,7 +19,7 @@ This project demonstrates an end-to-end data engineering pipeline built using **
 
 ## Project Structure
 ```
-project-de-fmcg-atlikon/
+FMCG Retail Data Consolidation using Lakehouse Architecture/
 │
 ├── 0_data/
 │   ├── 1_parent_company/
