@@ -62,6 +62,3 @@ Designed for FMCG analytics such as sales performance tracking, customer insight
    - Data Ingestion
    - Transformations
    - Analytics
-
-## Author
-Harshit Pandey
